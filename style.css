@@ -1,0 +1,24 @@
+body{
+    font-family:"Playfair Display" , sans-serif;
+}
+header{
+    background-image: linear-gradient(100deg,rgb(76, 108, 136),rgb(207, 186, 63),rgb(27, 58, 48));
+}
+
+.navbar-brand,
+.text-primary {
+    color: #3358af !important;
+}
+
+.blue-bg{
+    background-color: #060e22;
+    color: #fff
+}
+
+.btn-bg{
+    background-color: rgb(58, 97, 40);
+    color: #fff
+}
+
+
+    
